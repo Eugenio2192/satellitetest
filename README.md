@@ -1,2 +1,2 @@
-# satellitetest
-Testing EO Applications.
+# Satellite test
+Testing EO Applications. (Copernicus S5P)
