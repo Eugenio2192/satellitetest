@@ -13,6 +13,7 @@ PROVIDER = "sobloo"
 dag = EODataAccessGateway('eodag.yml')
 dag.set_preferred_provider(PROVIDER)
 
+
 def loadDescriptorJson(path):
     with open(path, "r") as json_file:
         data = json.load(json_file)
